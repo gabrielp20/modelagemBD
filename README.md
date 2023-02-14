@@ -19,11 +19,27 @@ Um pagamento relaciona uma matrícula a um ou mais pagamentos (relacionamento 1:
 
 Modelagem
 
-
+![image](https://imgur.com/AgKvRFz.png)
 
 
 Vamos tentar pensar em 2 registros para cada entidade para checar o
 preenchimento das informações no nosso modelo.
+
+![image](https://imgur.com/OOCcLPw.png)
+
+![image](https://imgur.com/fs3Lgxz.png)
+
+![image](https://imgur.com/oT75rnd.png)
+
+![image](https://imgur.com/nFAyJRC.png)
+
+![image](https://imgur.com/naUzG8D.png)
+
+![image](https://imgur.com/r09dkBn.png)
+
+
+
+
 
 
 
